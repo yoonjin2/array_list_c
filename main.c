@@ -9,5 +9,6 @@ int main()
         intlist.list[i]=i;
     intlist=listinter(intlist);
     list_show_all(intlist);
+    free(intlist.list);
     return 0;
 }
