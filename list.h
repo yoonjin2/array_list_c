@@ -7,6 +7,20 @@ int *list;
 int list_size;
 };
 typedef struct list_int list_int;
+/*get space for add function*/
+list_int getspace(list_int X, int a)
+{
+    int i;
+    if(X.list_size!=0)
+    {
+        X.list=(int *)realloc(X.list,sizeof(int)*(X.list_size+1));
+        for(i=X.list_size;i>a;i--)
+            X.list[i]=X.list[i-1];
+        X.list_size++;
+    }
+    return X;
+}
+/*add function*/
 list_int list_add(list_int X)
 {
     int i,a,b;
@@ -15,14 +29,12 @@ list_int list_add(list_int X)
         ;
     else
     {
-        X.list=(int *)realloc(X.list,sizeof(int)*(X.list_size+1));
-        for(i=X.list_size;i>a;i--)
-            X.list[i]=X.list[i-1];
-        X.list_size++;
+        X=getspace(X,a);
         X.list[a]=b;
     }
     return X;
 }
+/*copy X to Y*/
 list_int listcpy(list_int Y, list_int X)
 {
     int i;
@@ -32,7 +44,7 @@ list_int listcpy(list_int Y, list_int X)
         memcpy(Y.list+i,X.list+i,sizeof(int));
     return Y;
 }
-
+/*make initial data*/
 list_int listgen(int size)
 {
     list_int X;
@@ -40,6 +52,7 @@ list_int listgen(int size)
     X.list_size=size;
     return X;
 }
+/*push data*/
 list_int push(list_int X)
 {
     X.list=(int *)realloc(X.list,(X.list_size+1)*sizeof(int));
@@ -47,6 +60,7 @@ list_int push(list_int X)
     X.list_size++;
     return X;
 }
+/*pop data*/
 list_int pop(list_int X)
 {
     if(X.list_size==0)
@@ -59,6 +73,7 @@ list_int pop(list_int X)
     }
     return X;
 }
+/*print size*/
 void size(list_int X)
 {
     if(X.list_size>0)
@@ -66,6 +81,7 @@ void size(list_int X)
     else
         puts("0");
 }
+/*if it is empty, it will return 1, or it will return 0.*/
 void empty(list_int X)
 {
     if(X.list_size==0)
@@ -73,6 +89,7 @@ void empty(list_int X)
     else
         puts("0");
 }
+/*shows top*/
 void top(list_int X)
 {
     if(X.list_size>0)
@@ -80,6 +97,7 @@ void top(list_int X)
     else
         puts("-1");
 }
+/*switch X and Y*/
 list_int change(list_int X)
 {
     int x,y,sv;
@@ -89,6 +107,7 @@ list_int change(list_int X)
     X.list[y]=sv;
     return X;
 }
+/*print specific number*/
 void where(list_int X)
 {
     int x,i;
@@ -100,12 +119,14 @@ void where(list_int X)
     }
 
 }
+/*print all*/
 void list_show_all(list_int X)
 {
     int i;
     for(i=0;i<X.list_size;i++)
          printf("%d\n",X.list[i]);
 }
+/*remove number*/
 list_int list_remove(list_int X)
 {
     int Y;
@@ -116,6 +137,7 @@ list_int list_remove(list_int X)
     X.list=realloc(X.list,sizeof(int)*X.list_size);
     return X;
 }
+/*interactive console*/
 list_int listinter(list_int X)
 {
     int i;
