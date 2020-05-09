@@ -48,8 +48,8 @@ list_int listcpy(list_int Y, list_int X)
 list_int listgen(int size)
 {
     list_int X;
-    X.list=malloc(sizeof(int));
-    X.list_size=size;
+    X.list=malloc(sizeof(int)*size);
+    X.list_size=0;
     return X;
 }
 /*push data*/
