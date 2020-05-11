@@ -107,7 +107,7 @@ list_int change(list_int X)
     X.list[y]=sv;
     return X;
 }
-/*print specific number*/
+/*print specific number's location*/
 void where(list_int X)
 {
     int x,i;
@@ -123,7 +123,7 @@ void where(list_int X)
 void list_show_all(list_int X)
 {
     int i;
-    for(i=0;i<X.list_size;i++)
+    for(i=X.list_size-1;i>=0;i--)
          printf("%d\n",X.list[i]);
 }
 /*remove number*/
