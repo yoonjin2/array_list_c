@@ -21,10 +21,10 @@ list_int getspace(list_int X, int a)
     return X;
 }
 /*add function*/
-list_int list_add(list_int X)
+list_int list_add(FILE *f,list_int X)
 {
     int i,a,b;
-    scanf("%d %d", &a, &b);
+    fscanf(f,"%d %d", &a, &b);
     if(X.list_size<a)
         ;
     else
@@ -45,23 +45,23 @@ list_int listcpy(list_int Y, list_int X)
     return Y;
 }
 /*make initial data*/
-list_int listgen(int size)
+list_int listgen()
 {
     list_int X;
-    X.list=malloc(sizeof(int)*size);
+    X.list=malloc(sizeof(int));
     X.list_size=0;
     return X;
 }
 /*push data*/
-list_int push(list_int X)
+list_int push(FILE *f, list_int X)
 {
     X.list=(int *)realloc(X.list,(X.list_size+1)*sizeof(int));
-    scanf("%d",X.list+X.list_size);
+    fscanf(f,"%d",X.list+X.list_size);
     X.list_size++;
     return X;
 }
 /*pop data*/
-list_int pop(list_int X)
+list_int pop(FILE *f,list_int X)
 {
     if(X.list_size==0)
         puts("-1");
@@ -98,20 +98,20 @@ void top(list_int X)
         puts("-1");
 }
 /*switch X and Y*/
-list_int change(list_int X)
+list_int change(FILE *f,list_int X)
 {
     int x,y,sv;
-    scanf("%d %d", &x, &y);
+    fscanf(f,"%d %d", &x, &y);
     sv=X.list[x];
     X.list[x]=X.list[y];
     X.list[y]=sv;
     return X;
 }
 /*print specific number's location*/
-void where(list_int X)
+void where(FILE *f,list_int X)
 {
     int x,i;
-    scanf("%d",&x);
+    fscanf(f,"%d",&x);
     for(i=X.list_size-1;i>=0;i--)
     {
         if(x==X.list[i])
@@ -127,29 +127,29 @@ void list_show_all(list_int X)
          printf("%d\n",X.list[i]);
 }
 /*remove number*/
-list_int list_remove(list_int X)
+list_int list_remove(FILE *f,list_int X)
 {
     int Y;
-    scanf("%d",&Y);
+    fscanf(f,"%d",&Y);
     for(;Y<X.list_size-1;Y++)
          X.list[Y+1]=X.list[Y];
     X.list_size--;
     X.list=realloc(X.list,sizeof(int)*X.list_size);
     return X;
 }
-/*interactive console*/
-list_int listinter(list_int X)
+/*gets command*/
+list_int listinter(FILE *f,list_int X)
 {
     int i;
     char command[6];
     list_int Y=listcpy(Y,X);
-    while(1)
+    while(!feof(f))
     {
-        scanf("%s",command);
+        fscanf(f,"%s",command);
         if(strcmp(command,"push")==0)
-            Y=push(Y);
+            Y=push(f,Y);
         else if(strcmp(command,"pop")==0)
-            Y=pop(Y);
+            Y=pop(f,Y);
         else if (strcmp(command,"size")==0)
             size(Y);
         else if (strcmp(command,"empty")==0)
@@ -157,17 +157,17 @@ list_int listinter(list_int X)
         else if(strcmp(command,"top")==0)
             top(Y);
         else if(strcmp(command,"change")==0)
-            Y=change(Y);
+            Y=change(f,Y);
         else if(strcmp(command,"where")==0)
-            where(Y);
+            where(f,Y);
         else if(strcmp(command,"return")==0)
             break;
         else if(strcmp(command,"showall")==0)
             list_show_all(Y);
         else if(strcmp(command,"remove")==0)
-            Y=list_remove(Y);
+            Y=list_remove(f,Y);
         else if(strcmp(command,"add")==0)
-            Y=list_add(Y);
+            Y=list_add(f,Y);
         else if(strcmp(command,"clear")==0)
         {
             for(i=0;i<Y.list_size;i++)

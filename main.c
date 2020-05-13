@@ -1,8 +1,10 @@
 #include"list.h"
-int main()
+int main(int argc, char **argv)
 {
-    list_int intlist=listgen(1);
-    intlist=listinter(intlist);
+    FILE *f=fopen(argv[1],"rt");
+    list_int intlist=listgen();
+    intlist=listinter(f,intlist);
     free(intlist.list);
+    fclose(f);
     return 0;
 }

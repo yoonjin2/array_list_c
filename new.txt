@@ -1,0 +1,5323 @@
+push 1804289383
+pop
+push 1681692777
+top
+top
+push 596516649
+change 1 0
+add 0 1350490027
+empty
+top
+pop
+push 1365180540
+change 0 1
+add 2 1303455736
+size
+empty
+push 336465782
+top
+top
+pop
+push 1101513929
+empty
+size
+push 1059961393
+change 4 1
+add 3 1656478042
+size
+size
+push 608413784
+change 3 6
+add 2 1973594324
+empty
+size
+pop
+push 412776091
+empty
+size
+push 982906996
+change 4 6
+add 5 2084420925
+empty
+size
+push 805750846
+change 9 3
+add 4 1433925857
+size
+size
+push 1998898814
+change 10 1
+add 6 1585990364
+top
+empty
+push 945117276
+change 2 8
+add 3 709393584
+empty
+empty
+pop
+push 2053999932
+change 7 4
+add 7 1843993368
+top
+top
+push 1469348094
+change 7 11
+add 10 463480570
+empty
+top
+push 1376710097
+change 2 12
+add 7 603570492
+top
+empty
+push 402724286
+change 1 9
+add 12 894429689
+top
+empty
+push 1063958031
+change 6 11
+add 14 2007905771
+size
+empty
+pop
+push 631704567
+change 16 5
+add 6 524872353
+top
+empty
+push 352406219
+change 16 12
+add 15 2040332871
+size
+empty
+push 1713258270
+top
+empty
+push 200747796
+empty
+top
+push 990892921
+change 15 21
+add 8 1622597488
+top
+empty
+push 1911165193
+change 19 7
+add 17 116087764
+empty
+top
+push 1275373743
+change 3 11
+add 3 841148365
+top
+top
+push 1244316437
+change 3 0
+add 24 213975407
+empty
+top
+pop
+push 1239036029
+change 17 9
+add 10 1350573793
+size
+empty
+push 1875335928
+change 9 11
+add 25 1597322404
+empty
+top
+push 352118606
+change 16 4
+add 0 165344818
+size
+size
+push 1504569917
+change 5 15
+add 25 496987743
+empty
+empty
+push 1096689772
+change 5 4
+add 5 1172755590
+empty
+empty
+pop
+push 2027907669
+change 10 17
+add 29 1820388464
+size
+size
+pop
+push 1789376348
+change 19 22
+add 19 1037127828
+top
+size
+push 1335354340
+change 7 11
+add 3 1494613810
+top
+top
+push 1308044878
+change 7 18
+add 16 705178736
+size
+size
+push 1402586708
+change 26 2
+add 14 188213258
+size
+size
+push 238962600
+change 12 8
+add 15 1273911899
+empty
+top
+push 707900973
+change 26 12
+add 2 7684930
+top
+empty
+push 2058657199
+change 25 1
+add 19 1501252996
+top
+size
+push 2025187190
+change 16 17
+add 32 437116466
+top
+size
+push 1953443376
+change 22 16
+add 5 1237379107
+top
+size
+push 995706887
+change 17 18
+add 19 625032172
+empty
+size
+push 1295166342
+change 29 0
+add 13 1555319301
+top
+size
+pop
+push 296864819
+change 8 15
+add 15 2001229904
+empty
+top
+push 1065311705
+change 40 19
+add 32 1414829150
+size
+top
+pop
+push 231602422
+change 14 26
+add 15 619054081
+top
+empty
+push 1253207672
+change 36 11
+add 44 1635905385
+top
+top
+push 1111783898
+change 43 38
+add 10 915256190
+empty
+empty
+push 1566288819
+change 40 36
+add 26 726371155
+empty
+top
+push 1682085273
+change 29 42
+add 9 246247255
+empty
+top
+pop
+push 2118421993
+change 5 21
+add 4 1017679567
+top
+top
+push 648031326
+change 18 46
+add 16 282828202
+empty
+empty
+pop
+push 1486222842
+change 24 20
+add 24 1266235189
+size
+size
+push 653448036
+change 44 34
+add 18 364686248
+top
+top
+push 501772890
+change 24 19
+add 44 212251746
+empty
+size
+push 1775473788
+change 47 4
+add 43 1886086990
+size
+top
+push 552910253
+change 36 54
+add 24 1795519125
+top
+top
+push 235649157
+change 51 43
+add 29 1545032460
+size
+size
+push 496060028
+change 11 52
+add 22 332266748
+empty
+empty
+push 655858699
+change 10 37
+add 35 1395132002
+empty
+size
+push 1498617647
+change 18 19
+add 35 12895151
+top
+empty
+push 1113502215
+change 46 28
+add 37 1543755629
+empty
+size
+pop
+push 136495343
+change 13 21
+add 32 1329202900
+empty
+empty
+push 655495367
+change 34 12
+add 56 1841585795
+size
+size
+pop
+push 1402961682
+change 44 5
+add 2 400000569
+empty
+empty
+push 1941690360
+change 27 18
+add 36 1516266761
+size
+size
+push 500618996
+change 21 41
+add 42 2004504234
+top
+top
+push 1748349614
+change 27 5
+add 7 2137390358
+top
+top
+push 1369602726
+change 26 40
+add 38 1707056552
+size
+top
+pop
+push 1708302647
+change 4 51
+add 56 1426819080
+top
+top
+pop
+push 1156541312
+change 6 24
+add 32 70788355
+size
+empty
+push 241909610
+change 4 36
+add 30 104152274
+empty
+empty
+push 309198987
+change 16 34
+add 34 873524566
+empty
+top
+push 1251300606
+change 55 62
+add 70 2137100237
+empty
+top
+push 478034945
+change 61 35
+add 59 1983228458
+size
+empty
+pop
+push 2045826607
+change 3 57
+add 21 1647149314
+size
+size
+pop
+push 2039723618
+change 34 45
+add 34 2077211388
+top
+empty
+pop
+push 1943003493
+change 58 46
+add 34 2069110699
+empty
+top
+pop
+push 1336092622
+change 40 19
+add 27 773319847
+size
+top
+push 1858504292
+change 74 31
+add 17 427355115
+top
+empty
+push 126401947
+change 71 31
+add 57 521035021
+size
+empty
+push 1291554098
+change 71 67
+add 1 2004187516
+size
+top
+push 1372261796
+change 74 24
+add 74 628974580
+size
+size
+push 1021784812
+change 71 47
+add 26 262692685
+size
+size
+push 395279207
+change 67 21
+add 39 435889744
+empty
+size
+pop
+push 2033505236
+change 20 68
+add 48 257675105
+empty
+size
+push 1319041805
+change 60 25
+add 27 1066077375
+top
+size
+pop
+push 1215828993
+change 74 69
+add 32 927376882
+empty
+top
+push 76593093
+change 78 38
+add 30 1421186593
+empty
+size
+push 733327814
+change 35 73
+add 88 1725138377
+empty
+empty
+push 1615935710
+change 62 54
+add 26 406011017
+top
+empty
+push 524305153
+change 84 78
+add 78 124666328
+empty
+top
+push 1007277217
+change 44 83
+add 78 362575055
+size
+empty
+push 1130698571
+change 30 21
+add 46 483689685
+size
+size
+pop
+push 2000419805
+change 60 16
+add 19 1122336503
+size
+empty
+push 952062949
+change 90 12
+add 33 714880226
+size
+size
+push 34740865
+change 72 92
+add 90 1290127955
+size
+size
+push 537322532
+change 86 71
+add 77 1104627321
+top
+empty
+push 2059344234
+change 56 17
+add 38 772970072
+empty
+top
+push 628966950
+change 84 82
+add 22 1089653714
+size
+size
+push 1982945082
+change 35 32
+add 54 525829204
+empty
+size
+push 1862875640
+change 51 65
+add 85 1626250262
+empty
+size
+pop
+push 1597141723
+change 2 34
+add 12 1691449122
+size
+size
+push 1738909365
+change 7 33
+add 51 595311776
+empty
+top
+pop
+push 2106914653
+change 69 59
+add 0 1487053959
+top
+empty
+push 1289547084
+change 18 84
+add 6 811742698
+size
+size
+push 1250801052
+change 61 25
+add 88 1135771559
+top
+size
+pop
+push 82173109
+change 1 25
+add 24 454333378
+empty
+size
+pop
+push 11671338
+change 89 54
+add 59 992028067
+top
+top
+push 1954696532
+change 90 43
+add 74 101323875
+empty
+top
+pop
+push 833215350
+change 11 33
+add 94 1503967857
+top
+empty
+push 1979015720
+change 62 11
+add 72 803590181
+top
+empty
+push 1604765404
+change 98 92
+add 89 1785550551
+size
+top
+push 1078898506
+change 20 7
+add 108 63299708
+size
+top
+pop
+push 420687483
+change 40 100
+add 49 1579068977
+size
+size
+push 1907895021
+change 66 43
+add 27 580508860
+top
+size
+pop
+push 476564285
+change 66 18
+add 38 2010794583
+top
+top
+pop
+push 1875641892
+change 0 111
+add 50 1351538839
+empty
+size
+push 1267889618
+change 95 73
+add 70 1663080928
+size
+size
+pop
+push 384370888
+change 69 38
+add 115 813274570
+size
+empty
+push 1304811783
+change 70 57
+add 27 1610009097
+empty
+size
+pop
+push 1287726651
+change 92 47
+add 77 928140528
+size
+empty
+pop
+push 627992393
+change 29 40
+add 15 1238498976
+top
+top
+push 1043388777
+change 26 36
+add 40 286448566
+empty
+top
+pop
+push 620089368
+change 10 28
+add 28 1476453195
+top
+empty
+pop
+push 242588954
+change 28 58
+add 28 2135019593
+top
+size
+pop
+push 1916250774
+change 61 68
+add 17 415522325
+top
+top
+pop
+push 745598382
+change 17 96
+add 2 1375179334
+size
+top
+push 576994985
+change 13 10
+add 10 953691761
+top
+top
+pop
+push 1104561852
+change 61 5
+add 17 108375482
+size
+size
+push 1119399015
+change 6 21
+add 20 771476364
+top
+top
+push 829570037
+change 46 49
+add 52 222028828
+size
+empty
+push 342146590
+change 89 78
+add 121 849725352
+empty
+top
+pop
+push 2058907361
+change 90 130
+add 121 113974112
+size
+empty
+push 394709364
+change 43 42
+add 24 1337434154
+size
+size
+pop
+push 1292413412
+change 113 104
+add 110 434290636
+top
+empty
+push 1020406649
+change 94 65
+add 6 1998994314
+empty
+empty
+push 411826969
+change 123 55
+add 36 192532621
+empty
+size
+push 404259631
+change 115 50
+add 28 562395735
+empty
+size
+push 1872666833
+change 96 1
+add 27 1450099355
+top
+top
+push 18400960
+change 73 43
+add 31 1987323286
+empty
+top
+pop
+push 399493245
+change 69 53
+add 112 14933990
+empty
+top
+push 379461075
+change 88 74
+add 39 1987235624
+empty
+size
+pop
+push 333293469
+change 136 45
+add 86 242474976
+size
+empty
+push 1840019304
+change 100 61
+add 66 2053232475
+empty
+empty
+pop
+push 1970090192
+change 59 97
+add 111 1321756868
+empty
+empty
+push 38649718
+change 82 137
+add 81 1489692377
+top
+top
+push 1554725062
+change 48 113
+add 21 379366797
+size
+size
+push 522971726
+change 6 96
+add 81 896925393
+top
+size
+push 28264029
+change 66 91
+add 16 1139352160
+top
+top
+push 1926411641
+change 102 10
+add 26 895873480
+top
+empty
+pop
+push 2021303708
+change 75 71
+add 3 572132557
+size
+size
+push 649785905
+change 50 61
+add 142 1105629391
+size
+top
+push 1715207829
+change 77 114
+add 24 692458743
+top
+top
+push 1254749154
+change 32 137
+add 149 695258232
+empty
+top
+push 1984498433
+change 53 32
+add 84 298167279
+empty
+empty
+push 1759007339
+change 128 78
+add 46 1698487330
+empty
+top
+pop
+push 1195950186
+change 119 152
+add 50 415675634
+empty
+empty
+push 454806773
+change 81 3
+add 98 1692786742
+empty
+size
+pop
+push 331016259
+change 91 73
+add 87 1845636353
+empty
+top
+pop
+push 1835342733
+change 79 94
+add 75 2107654819
+top
+empty
+push 100669
+change 136 56
+add 133 67974802
+top
+size
+push 1531585205
+change 110 80
+add 121 933596911
+top
+empty
+pop
+push 1424321892
+change 92 115
+add 41 2117303605
+size
+empty
+push 1256273378
+change 75 156
+add 90 305564045
+size
+top
+push 310242589
+change 161 58
+add 113 883799426
+empty
+size
+push 76277107
+change 78 23
+add 91 750679664
+size
+empty
+push 1487105994
+change 61 165
+add 18 2016408437
+size
+empty
+push 1219933931
+change 57 101
+add 116 724025165
+top
+empty
+push 1907712995
+change 124 32
+add 1 1047196295
+empty
+empty
+push 1538026652
+change 101 140
+add 163 959658925
+top
+empty
+push 1510906527
+change 151 33
+add 114 94255812
+empty
+top
+push 363304213
+change 54 123
+add 26 604263370
+top
+top
+push 1389079342
+change 50 56
+add 172 4744263
+empty
+empty
+pop
+push 181226513
+change 133 150
+add 28 986478257
+empty
+empty
+push 2124898138
+change 50 170
+add 146 1541417540
+top
+size
+push 956134158
+change 29 4
+add 157 1731190952
+size
+size
+push 1663568111
+change 17 54
+add 110 1158747661
+top
+empty
+push 1209379174
+change 32 88
+add 125 547407330
+empty
+top
+push 2003980519
+change 118 89
+add 57 1101533292
+top
+empty
+push 185963953
+change 35 135
+add 107 1018041598
+size
+size
+push 1281944976
+change 120 85
+add 74 1989200801
+empty
+size
+push 309766496
+change 130 71
+add 181 1850612763
+empty
+empty
+push 1142930164
+change 150 109
+add 24 64564349
+top
+empty
+pop
+push 1316953165
+change 130 54
+add 79 1017565625
+empty
+size
+pop
+push 99568484
+change 41 16
+add 176 44804919
+empty
+top
+push 1295815494
+change 77 5
+add 91 464837581
+size
+empty
+push 102524643
+change 89 109
+add 28 1031207394
+top
+empty
+push 110993018
+change 168 123
+add 43 1242754098
+top
+empty
+pop
+push 1337856142
+change 87 91
+add 54 219994425
+top
+top
+push 1010764797
+change 18 67
+add 146 568122272
+size
+empty
+push 1175989877
+change 50 120
+add 185 1482841197
+top
+empty
+push 1686518107
+change 178 161
+add 5 599529154
+size
+top
+push 777635325
+change 64 157
+add 15 1085206797
+top
+empty
+pop
+push 1457880381
+change 64 67
+add 88 2028720897
+top
+empty
+push 1659373349
+change 188 19
+add 1 104852634
+empty
+empty
+push 649022765
+change 62 110
+add 184 682736626
+top
+size
+pop
+push 234799752
+change 90 11
+add 52 1308581515
+top
+size
+push 487073847
+change 159 134
+add 156 360022300
+size
+top
+push 212295100
+change 47 180
+add 183 2026929416
+top
+empty
+pop
+push 263043320
+change 26 118
+add 194 31797565
+empty
+empty
+push 1578716908
+change 104 49
+add 50 1933084303
+size
+size
+push 701539807
+change 166 184
+add 74 2078480869
+empty
+empty
+push 1989352324
+change 123 151
+add 55 831099451
+size
+empty
+push 1460654187
+change 9 106
+add 20 1917305981
+empty
+top
+pop
+push 256363941
+change 68 94
+add 95 343886628
+size
+top
+push 386753870
+change 156 43
+add 39 1631207466
+top
+empty
+push 382926234
+change 14 196
+add 154 1851445950
+top
+top
+pop
+push 1391927494
+change 149 157
+add 30 1967632854
+empty
+top
+push 409098738
+change 76 122
+add 157 1821115873
+empty
+size
+pop
+push 322334813
+change 43 89
+add 205 224048977
+size
+size
+pop
+push 1950148346
+change 8 210
+add 192 353673391
+size
+top
+pop
+push 680007057
+change 180 133
+add 69 1925473439
+empty
+empty
+pop
+push 2097657371
+change 18 126
+add 117 960188534
+top
+empty
+push 1353825800
+change 81 0
+add 79 1607500335
+size
+empty
+push 503615949
+change 174 43
+add 22 1942481690
+top
+empty
+push 989492335
+change 198 68
+add 75 936621968
+size
+empty
+push 634172025
+change 22 68
+add 67 81458260
+top
+empty
+pop
+push 1374631287
+change 89 4
+add 202 2138078721
+top
+empty
+push 192433878
+change 203 32
+add 56 258219170
+empty
+size
+pop
+push 1564739221
+change 140 103
+add 87 729568616
+empty
+empty
+pop
+push 713355511
+change 217 38
+add 72 1705632563
+top
+empty
+pop
+push 1595371198
+change 112 194
+add 25 1401422376
+empty
+size
+pop
+push 1455371254
+change 142 204
+add 204 1922018481
+empty
+size
+pop
+push 5631942
+change 152 76
+add 215 1189544209
+top
+empty
+push 162403134
+change 134 206
+add 98 366831742
+size
+top
+push 310273413
+change 208 25
+add 16 1628414422
+size
+empty
+pop
+push 296528780
+change 61 6
+add 96 547772603
+empty
+empty
+push 988506952
+change 168 128
+add 35 1855103807
+empty
+size
+push 1758179117
+change 42 5
+add 190 1973521090
+size
+empty
+pop
+push 405201937
+change 205 18
+add 80 1752143421
+empty
+top
+push 421101832
+change 160 12
+add 175 1659239833
+top
+size
+push 709606368
+change 39 113
+add 21 1566586128
+top
+empty
+push 315813605
+change 120 146
+add 182 1488873165
+empty
+top
+pop
+push 1667250732
+change 78 155
+add 168 701943705
+top
+top
+pop
+push 1820042348
+change 61 132
+add 169 2021449807
+top
+size
+push 1179529128
+change 23 70
+add 113 1219377470
+size
+empty
+push 251836754
+change 1 150
+add 194 1113675743
+top
+top
+pop
+push 2122466788
+change 156 220
+add 104 1572255140
+empty
+empty
+push 1626870461
+change 89 200
+add 233 1634296630
+empty
+size
+pop
+push 512976554
+change 138 22
+add 50 364531492
+top
+top
+push 284327308
+change 189 9
+add 122 1744161708
+empty
+top
+push 1470796522
+change 219 17
+add 23 1559436157
+top
+size
+pop
+push 2042830296
+change 39 33
+add 198 859310840
+top
+size
+pop
+push 1335077589
+change 190 172
+add 68 102194872
+size
+size
+push 957426576
+change 27 42
+add 164 1331565220
+empty
+top
+push 428674782
+change 240 221
+add 10 106242869
+size
+size
+push 631340353
+change 125 118
+add 125 138700754
+size
+empty
+push 2057337242
+change 246 236
+add 25 1918386023
+empty
+top
+pop
+push 861746410
+change 34 9
+add 177 481387902
+size
+size
+pop
+push 442482781
+change 189 208
+add 56 966618017
+top
+size
+push 1976714674
+change 88 188
+add 195 878777377
+top
+empty
+push 1075259134
+change 209 164
+add 154 388450127
+top
+empty
+push 1906889260
+change 76 19
+add 147 1883555567
+top
+size
+push 1609946277
+change 50 12
+add 21 1212220435
+size
+top
+pop
+push 266795367
+change 212 11
+add 125 770833934
+top
+top
+push 1559473950
+change 247 34
+add 94 327727208
+empty
+empty
+pop
+push 291079690
+change 208 194
+add 162 1540232676
+top
+empty
+push 1760481135
+change 13 89
+add 120 40776180
+empty
+empty
+pop
+push 1396028861
+change 226 81
+add 3 1598048401
+size
+empty
+pop
+push 641450052
+change 142 65
+add 13 2112043682
+empty
+top
+pop
+push 1304352949
+change 220 128
+add 55 909197235
+size
+size
+push 639286229
+change 124 224
+add 197 1983827549
+top
+empty
+push 358279876
+change 221 208
+add 169 1896073990
+top
+empty
+push 1654435776
+change 32 15
+add 22 2077837209
+empty
+size
+push 620529490
+change 135 55
+add 181 1741160450
+size
+empty
+pop
+push 1362243428
+change 122 66
+add 32 1196153579
+size
+size
+pop
+push 1254390769
+change 117 43
+add 30 61204105
+top
+empty
+pop
+push 660064472
+change 37 263
+add 133 1723705710
+size
+size
+pop
+push 1054181467
+change 72 79
+add 70 850377601
+empty
+empty
+pop
+push 1172895038
+change 67 14
+add 3 1199311796
+size
+empty
+push 1533803669
+change 114 60
+add 3 1753779927
+empty
+top
+push 877062718
+change 196 269
+add 172 406736335
+size
+size
+push 1360933007
+change 107 54
+add 244 1246101662
+top
+size
+push 1893244856
+change 234 87
+add 31 875470641
+empty
+top
+push 1750547889
+change 179 269
+add 83 4537736
+size
+size
+push 680634295
+change 241 126
+add 148 2120741187
+size
+size
+push 1211270210
+change 55 109
+add 53 1583274723
+top
+size
+pop
+push 1438537945
+change 177 84
+add 244 507857366
+empty
+top
+push 701062795
+change 241 33
+add 47 1918258803
+empty
+top
+push 1840700573
+change 168 135
+add 225 1831545290
+empty
+empty
+push 1206758863
+change 252 74
+add 273 912078408
+empty
+empty
+push 2039199093
+change 31 35
+add 110 1502386251
+empty
+size
+pop
+push 217985588
+change 42 233
+add 139 1081029448
+size
+size
+push 241315329
+change 259 142
+add 113 1222827834
+size
+size
+pop
+push 1675644664
+change 208 82
+add 36 1810821955
+empty
+size
+pop
+push 560413640
+change 238 129
+add 170 541279136
+top
+top
+push 665680297
+change 205 22
+add 33 441971924
+size
+top
+pop
+push 1691643253
+change 175 167
+add 200 1227833555
+size
+size
+pop
+push 1032684367
+change 31 199
+add 271 96198530
+size
+size
+pop
+push 854155594
+change 85 68
+add 138 922883852
+empty
+empty
+push 1054873513
+change 1 105
+add 220 753554421
+empty
+top
+push 619480878
+change 205 95
+add 61 2021424758
+empty
+top
+push 53476175
+change 219 36
+add 55 1402505904
+empty
+size
+pop
+push 1829197086
+change 37 184
+add 43 217010946
+size
+size
+push 202029501
+change 18 190
+add 122 329370448
+top
+top
+pop
+push 910053150
+change 140 93
+add 231 902411556
+size
+size
+pop
+push 867874951
+change 232 257
+add 109 1948377259
+top
+empty
+push 1416023182
+change 216 261
+add 227 115206657
+size
+top
+push 1156565744
+change 208 46
+add 42 1476967137
+empty
+top
+push 1502774186
+change 141 284
+add 182 978128825
+top
+top
+push 1924200848
+change 65 203
+add 161 850598623
+top
+top
+push 1108537283
+change 150 16
+add 155 1178835412
+size
+empty
+push 1016499950
+change 63 30
+add 77 447053428
+size
+empty
+push 365547042
+change 193 10
+add 194 919121924
+size
+top
+push 639138264
+change 59 151
+add 141 2025753319
+empty
+empty
+pop
+push 1423524763
+change 290 189
+add 115 2097951318
+size
+size
+pop
+push 1574788777
+change 274 42
+add 147 2082735328
+top
+size
+push 1930334779
+change 83 91
+add 197 689034589
+size
+empty
+push 822514995
+change 145 98
+add 67 900874211
+top
+top
+push 47830643
+change 86 144
+add 12 1991241042
+size
+size
+push 1405097218
+change 13 106
+add 79 1481907231
+empty
+size
+push 1628846894
+change 1 187
+add 130 1469543483
+size
+top
+pop
+push 122125315
+change 186 242
+add 116 1872285314
+size
+top
+pop
+push 220071006
+change 232 79
+add 151 2048017638
+top
+empty
+pop
+push 1367480709
+change 225 65
+add 166 1035317824
+empty
+empty
+pop
+push 1845394080
+change 242 53
+add 277 243253491
+top
+top
+pop
+push 2100598388
+change 175 165
+add 132 1004642738
+size
+top
+push 168021018
+change 0 282
+add 148 358854042
+top
+empty
+pop
+push 1121608488
+change 137 20
+add 282 161922596
+size
+empty
+pop
+push 1718500113
+change 115 207
+add 122 1708403454
+top
+top
+pop
+push 434457257
+change 101 96
+add 280 80869451
+top
+top
+pop
+push 281845289
+change 223 146
+add 150 633295539
+empty
+size
+push 1169442043
+change 202 195
+add 69 466747319
+top
+size
+push 1426608253
+change 99 283
+add 31 2042028215
+top
+size
+pop
+push 218942709
+change 84 55
+add 207 316554595
+size
+size
+push 1874545820
+change 116 277
+add 47 364234956
+size
+top
+pop
+push 1202376250
+change 72 52
+add 277 959171794
+size
+size
+push 1437046647
+change 35 23
+add 81 987059619
+empty
+empty
+push 2026061770
+change 37 61
+add 206 1297046355
+top
+empty
+push 61755148
+change 302 148
+add 66 1700217177
+size
+empty
+push 865144369
+change 88 278
+add 179 1218200987
+size
+top
+push 903633726
+change 159 80
+add 276 788513271
+top
+empty
+pop
+push 2066990816
+change 69 289
+add 39 969069027
+top
+size
+pop
+push 1280931765
+change 213 244
+add 121 560318023
+top
+empty
+pop
+push 1335757408
+change 212 296
+add 44 1117726230
+size
+empty
+push 871328242
+change 100 180
+add 156 1238241306
+empty
+empty
+pop
+push 1665676898
+change 248 249
+add 119 1833469976
+size
+size
+push 356341138
+change 112 243
+add 174 64317458
+size
+empty
+push 47610720
+change 77 191
+add 14 2111060014
+empty
+top
+push 436359554
+empty
+empty
+push 764324635
+change 154 287
+add 85 783387964
+empty
+empty
+push 186015033
+change 232 334
+add 144 1003497683
+empty
+empty
+push 136561149
+change 246 109
+add 125 135813159
+top
+size
+pop
+push 2014871043
+change 47 97
+add 182 604969710
+empty
+top
+push 317992893
+change 12 81
+add 114 118941728
+empty
+top
+pop
+push 885420959
+change 262 123
+add 162 1706740259
+size
+size
+pop
+push 2081063046
+change 180 235
+add 323 660343702
+size
+size
+push 1862140492
+change 2 315
+add 228 42186306
+empty
+size
+push 1613703163
+change 204 282
+add 234 1026488339
+top
+top
+pop
+push 1501659818
+change 292 154
+add 254 2006420005
+size
+empty
+push 915989944
+change 344 276
+add 43 1894600361
+size
+top
+push 643762327
+change 98 286
+add 300 475853939
+top
+empty
+pop
+push 1984048626
+change 250 257
+add 314 826782912
+empty
+size
+push 76982346
+change 15 58
+add 43 474960250
+top
+top
+push 1990178440
+change 272 104
+add 5 74061048
+size
+size
+pop
+push 1300595513
+change 178 209
+add 215 1179478661
+top
+size
+pop
+push 1158671754
+change 224 169
+add 116 10604139
+empty
+empty
+push 43695777
+change 148 297
+add 166 191471704
+size
+size
+push 754963290
+change 129 69
+add 79 1420599300
+size
+size
+pop
+push 1234644696
+change 59 309
+add 293 217704412
+empty
+empty
+push 928494151
+change 171 24
+add 351 674062382
+size
+empty
+pop
+push 446703183
+change 42 194
+add 99 1736214337
+size
+top
+pop
+push 294124046
+change 330 286
+add 290 1616757669
+top
+empty
+push 581544070
+change 286 141
+add 3 1065533764
+empty
+size
+push 179486052
+change 358 53
+add 342 1212052176
+empty
+empty
+push 230891466
+change 227 58
+add 309 2129043633
+empty
+empty
+push 472562275
+change 45 10
+add 276 1478633400
+size
+empty
+push 945229157
+change 79 125
+add 26 430310992
+top
+size
+push 753999960
+change 13 245
+add 67 690471744
+size
+top
+pop
+push 2024516898
+change 78 137
+add 350 1661084821
+top
+top
+pop
+push 186391879
+change 49 296
+add 146 813592586
+top
+size
+pop
+push 701807124
+change 277 44
+add 142 1932874974
+empty
+empty
+push 192713458
+change 58 4
+add 184 1561006484
+empty
+top
+push 2105342203
+change 86 153
+add 266 1696253215
+size
+size
+push 2113690868
+change 167 122
+add 155 302935500
+top
+top
+push 1242907571
+change 189 334
+add 180 1932062638
+top
+top
+push 1180082199
+change 99 348
+add 296 1319619072
+empty
+empty
+push 475777610
+change 370 148
+add 232 842198392
+top
+empty
+pop
+push 399403847
+change 27 46
+add 258 372758355
+size
+top
+push 697054660
+change 244 168
+add 243 107920488
+empty
+size
+push 1029322037
+change 47 201
+add 59 1155505365
+empty
+size
+pop
+push 1424771149
+change 195 338
+add 336 1265596083
+size
+top
+pop
+push 2085331055
+change 281 255
+add 113 1793039021
+size
+top
+push 1298484488
+change 191 143
+add 96 168488323
+top
+empty
+pop
+push 2122533302
+change 80 351
+add 190 880944650
+top
+top
+pop
+push 1148576388
+change 110 149
+add 95 1265989390
+empty
+empty
+push 649830540
+change 22 251
+add 88 1379803375
+empty
+size
+push 1026374844
+change 134 300
+add 220 25701533
+size
+empty
+push 1441252327
+change 315 22
+add 386 1440458800
+size
+size
+push 308424538
+change 371 251
+add 369 1971343899
+size
+empty
+push 1942024561
+change 186 75
+add 148 109450254
+size
+top
+push 1314586528
+change 211 111
+add 122 460362196
+size
+top
+push 415922256
+change 44 366
+add 272 1930644296
+top
+top
+pop
+push 1772954887
+change 196 147
+add 323 351748718
+empty
+empty
+push 1780238390
+change 315 137
+add 270 1998713308
+top
+size
+push 39533257
+change 273 385
+add 271 1249748707
+size
+empty
+pop
+push 248185889
+change 193 204
+add 115 2095530607
+empty
+empty
+push 1975402908
+change 126 152
+add 222 1178341976
+empty
+top
+pop
+push 1810998055
+change 389 111
+add 129 1120090212
+size
+top
+pop
+push 1844462197
+change 130 72
+add 129 1241027172
+empty
+top
+push 411266131
+change 225 121
+add 318 328386656
+empty
+empty
+pop
+push 1286598370
+change 121 354
+add 259 184366026
+top
+empty
+push 1008620975
+change 16 338
+add 208 1121147484
+top
+top
+pop
+push 300248473
+change 186 289
+add 279 1645803002
+size
+empty
+pop
+push 1362638020
+change 216 4
+add 50 1906423611
+empty
+size
+pop
+push 1911539847
+change 239 277
+add 136 1151572322
+size
+size
+push 1414460396
+change 170 195
+add 114 136416008
+size
+size
+push 894617267
+change 326 108
+add 343 282723354
+empty
+top
+push 1075669741
+change 227 145
+add 106 912669538
+empty
+top
+push 1861701682
+change 70 263
+add 107 973294814
+empty
+empty
+push 1258095765
+change 46 235
+add 178 956774406
+top
+top
+push 1688622591
+change 132 343
+add 112 617409831
+size
+empty
+pop
+push 2023762697
+change 379 219
+add 365 84870791
+empty
+size
+push 1968642166
+change 7 140
+add 208 1040759385
+empty
+empty
+pop
+push 961135338
+change 77 192
+add 43 1515607396
+empty
+size
+pop
+push 1689630845
+change 184 313
+add 211 584401425
+empty
+empty
+push 1207774949
+change 80 357
+add 357 200501653
+top
+size
+pop
+push 1268374276
+change 387 267
+add 346 1481969091
+empty
+size
+push 306980108
+change 267 268
+add 307 1635654526
+size
+top
+push 909448681
+change 13 352
+add 169 977415389
+size
+top
+pop
+push 148214896
+change 135 366
+add 352 210576770
+top
+top
+push 997191005
+change 208 51
+add 49 358625421
+empty
+size
+pop
+push 1386122429
+change 193 303
+add 95 1562478999
+top
+top
+push 1173369081
+change 342 423
+add 401 1119667502
+top
+size
+push 344130872
+change 72 116
+add 61 1381543847
+empty
+size
+pop
+push 1765417016
+change 144 8
+add 118 940443437
+top
+top
+pop
+push 2004270296
+change 162 382
+add 194 736581905
+top
+size
+pop
+push 702622777
+change 103 177
+add 53 996774026
+empty
+size
+push 473431429
+change 238 55
+add 141 68801443
+empty
+empty
+push 394062426
+change 311 303
+add 10 1725663994
+top
+size
+pop
+push 1065093662
+change 279 269
+add 224 1933366332
+empty
+empty
+push 919191847
+change 88 2
+add 358 1310062900
+size
+size
+pop
+push 188043983
+change 171 404
+add 210 879683501
+empty
+top
+push 355126162
+change 12 405
+add 429 1452573032
+top
+top
+push 1629872743
+change 266 430
+add 338 882263958
+size
+top
+push 1041655229
+change 137 378
+add 156 728120804
+size
+empty
+push 1717807878
+change 337 394
+add 184 945877108
+empty
+empty
+push 286316151
+change 299 187
+add 16 103087854
+size
+size
+pop
+push 1728970290
+change 165 147
+add 32 1453298941
+size
+size
+push 2108050440
+change 149 13
+add 397 1993077304
+top
+size
+push 1480032908
+change 206 327
+add 105 1339326423
+size
+top
+push 311647339
+change 44 110
+add 410 1576184454
+empty
+empty
+push 1745520789
+change 187 152
+add 293 1598527249
+empty
+top
+pop
+push 1591644042
+change 19 219
+add 404 1050760512
+size
+size
+pop
+push 572561811
+change 374 6
+add 191 1438507752
+top
+size
+pop
+push 1335714087
+change 97 32
+add 326 40317565
+size
+top
+push 172154289
+change 157 286
+add 155 148472296
+top
+size
+pop
+push 1007245829
+change 159 396
+add 334 1191566617
+size
+empty
+pop
+push 532646386
+change 143 12
+add 158 1131491977
+size
+size
+pop
+push 1574486766
+change 96 366
+add 149 1218458780
+empty
+size
+push 1742811797
+change 130 381
+add 183 1644817046
+top
+top
+push 1022334982
+change 358 445
+add 142 591313492
+empty
+empty
+push 516677340
+change 308 160
+add 111 196285753
+size
+empty
+push 1509887186
+change 380 374
+add 332 110919287
+top
+empty
+pop
+push 300719389
+change 300 40
+add 347 640481776
+size
+size
+push 973365509
+change 377 245
+add 52 690918075
+empty
+top
+pop
+push 1472184324
+change 372 95
+add 411 1513453188
+top
+top
+pop
+push 1227477752
+change 404 383
+add 278 729290176
+size
+empty
+push 1909676663
+change 408 184
+add 166 869940457
+empty
+empty
+push 1680476021
+change 243 236
+add 298 863617753
+top
+top
+pop
+push 787086305
+change 256 330
+add 408 91119157
+empty
+empty
+push 1926585258
+change 8 310
+add 29 447272592
+top
+empty
+push 1771358132
+change 206 45
+add 431 1925203165
+empty
+top
+push 254980437
+change 195 241
+add 463 840714375
+empty
+size
+pop
+push 1599534911
+change 36 395
+add 422 1019305995
+size
+empty
+push 505492905
+change 136 31
+add 218 2144316428
+size
+empty
+push 658787454
+change 117 439
+add 419 838733761
+empty
+empty
+pop
+push 833195397
+change 215 181
+add 102 2020532420
+empty
+empty
+push 76764902
+change 136 129
+add 171 362447374
+top
+size
+push 1006777125
+change 181 58
+add 102 957873435
+top
+top
+push 1715159346
+change 384 440
+add 115 2065010947
+size
+empty
+pop
+push 1749963007
+change 399 155
+add 19 1870701493
+empty
+empty
+push 167434826
+change 271 312
+add 375 608580149
+empty
+size
+push 1675365723
+change 178 422
+add 245 247906197
+size
+empty
+pop
+push 234815955
+change 140 265
+add 24 377970868
+size
+top
+pop
+push 373026856
+change 70 177
+add 306 242660715
+top
+top
+pop
+push 828321738
+change 132 40
+add 420 827592008
+top
+top
+pop
+push 1140579593
+change 31 299
+add 152 1685622011
+size
+size
+push 38301418
+change 168 39
+add 152 209331367
+empty
+size
+push 1875218967
+change 277 138
+add 306 333359469
+empty
+top
+push 1536359305
+change 431 268
+add 376 622858860
+top
+top
+push 1264448664
+change 460 260
+add 192 1116323015
+top
+size
+push 1140624109
+change 109 83
+add 156 1374330757
+top
+empty
+pop
+push 446058856
+change 11 330
+add 245 865845082
+top
+empty
+pop
+push 699776712
+change 240 23
+add 184 1829724491
+empty
+size
+push 1217415497
+change 194 13
+add 435 1953433063
+empty
+size
+push 465550001
+change 67 265
+add 466 1804723202
+empty
+size
+push 1810015533
+change 297 214
+add 317 1383960411
+empty
+top
+pop
+push 1555985191
+change 93 25
+add 190 1065042992
+top
+empty
+push 2137387633
+change 451 75
+add 307 915892857
+size
+size
+pop
+push 1922932288
+change 226 416
+add 125 158374771
+empty
+size
+pop
+push 1202640845
+change 89 83
+add 469 1538776050
+empty
+top
+push 286289270
+change 253 243
+add 255 1189153143
+empty
+empty
+push 1794027639
+change 431 143
+add 456 25314788
+size
+size
+push 1243128425
+change 401 357
+add 321 203684112
+top
+size
+push 608113244
+change 51 113
+add 436 656635246
+top
+top
+push 468431721
+change 202 70
+add 64 2137226130
+size
+size
+push 618250231
+change 16 184
+add 23 1917957771
+size
+empty
+push 614064335
+change 412 24
+add 361 1063485056
+size
+top
+push 297598514
+change 445 163
+add 86 1632730758
+top
+top
+pop
+push 2019217281
+change 179 17
+add 7 720591308
+top
+size
+push 821687849
+change 268 315
+add 122 2011882475
+size
+empty
+pop
+push 465864481
+change 69 445
+add 125 470949153
+empty
+empty
+pop
+push 541639838
+change 225 400
+add 83 1476131424
+empty
+size
+push 467847177
+change 327 487
+add 157 1915163038
+top
+top
+push 840048586
+change 472 340
+add 108 1819626409
+size
+empty
+pop
+push 198979245
+change 167 343
+add 159 155036189
+size
+top
+push 2135962564
+change 403 89
+add 7 1578467455
+empty
+size
+push 1284263301
+change 381 78
+add 47 7155895
+size
+empty
+push 288772212
+change 367 467
+add 157 197277486
+top
+empty
+push 1436796072
+change 452 424
+add 422 2142447450
+size
+empty
+pop
+push 1577718055
+change 91 196
+add 408 423399815
+empty
+size
+pop
+push 291169347
+change 314 428
+add 331 322044317
+empty
+empty
+push 782091583
+change 218 407
+add 257 1449508341
+size
+size
+push 59770330
+change 493 313
+add 150 1258718810
+top
+top
+push 1594643385
+change 380 339
+add 204 425380177
+empty
+size
+push 1028676782
+change 241 46
+add 141 761267672
+top
+top
+push 1675439379
+change 153 345
+add 245 925357509
+empty
+top
+push 1778818446
+change 448 294
+add 470 103827878
+size
+top
+push 30817357
+change 189 283
+add 4 311524657
+empty
+empty
+push 998171884
+change 62 332
+add 157 1334600469
+top
+top
+push 1822101665
+change 507 387
+add 250 1466177207
+empty
+size
+push 1780894828
+change 345 42
+add 388 1703610268
+empty
+empty
+push 1389548121
+change 152 213
+add 154 1785286845
+top
+empty
+pop
+push 2101913295
+change 385 106
+add 15 1671157106
+size
+empty
+push 274000323
+change 112 234
+add 486 1589147732
+empty
+size
+push 2069687307
+change 389 226
+add 261 1168535013
+empty
+empty
+push 1409822860
+change 502 297
+add 424 466715638
+empty
+size
+push 1390342789
+change 209 297
+add 476 1164107681
+top
+size
+pop
+push 1101354279
+change 397 461
+add 344 1379413094
+empty
+top
+pop
+push 854047329
+change 365 308
+add 328 1201885508
+empty
+top
+push 444995154
+top
+top
+pop
+push 527386450
+change 368 419
+add 341 69470380
+top
+empty
+pop
+push 211919533
+change 502 189
+add 304 1386847845
+empty
+top
+pop
+push 1411463558
+change 403 378
+add 319 1818868837
+top
+empty
+push 329052918
+change 220 375
+add 247 1357669532
+empty
+top
+pop
+push 1383866429
+change 347 323
+add 281 2100251816
+top
+top
+push 1641511058
+change 435 335
+add 5 207222095
+top
+size
+push 316321813
+change 144 392
+add 87 1027209802
+top
+size
+push 2054525
+change 23 422
+add 238 1333016204
+top
+empty
+pop
+push 673321442
+change 423 327
+add 420 1226918245
+top
+empty
+push 1902076169
+change 129 114
+add 189 1769789348
+size
+size
+push 1428417140
+change 56 0
+add 510 1874459131
+top
+size
+push 2140173533
+change 82 432
+add 507 1581367423
+top
+top
+push 2087796504
+change 7 418
+add 498 924774222
+size
+top
+push 680753219
+change 257 273
+add 261 1337904018
+top
+size
+push 931702944
+change 187 498
+add 152 1963816134
+top
+top
+push 688347869
+change 314 348
+add 251 1921562649
+size
+empty
+pop
+push 974983157
+change 384 452
+add 205 1923744725
+size
+size
+push 248654437
+change 156 284
+add 533 939671752
+empty
+empty
+push 1402182467
+change 76 2
+add 224 1654875286
+top
+empty
+push 406185994
+change 207 12
+add 6 592483778
+size
+top
+push 1326206371
+change 9 427
+add 373 528746868
+top
+top
+push 1406385755
+change 337 476
+add 46 1291319291
+empty
+empty
+push 493173797
+change 124 29
+add 358 1304719330
+top
+top
+push 965234660
+change 65 54
+add 176 335486058
+size
+size
+push 1270186431
+change 338 348
+add 80 1200346276
+size
+empty
+push 195986667
+change 89 488
+add 335 1066832056
+top
+empty
+pop
+push 359978009
+change 37 42
+add 357 289404619
+top
+empty
+push 323944298
+change 86 56
+add 38 914666118
+size
+top
+push 847196228
+change 49 488
+add 436 103039626
+top
+size
+pop
+push 957709673
+change 442 327
+add 30 1190497565
+size
+empty
+pop
+push 678073870
+change 100 533
+add 162 889096169
+top
+size
+pop
+push 1017900305
+change 524 457
+add 378 2070721063
+size
+top
+push 950038936
+change 550 310
+add 518 495089358
+empty
+empty
+push 1613947041
+change 103 152
+add 538 1951817537
+top
+size
+pop
+push 1504049676
+change 228 478
+add 341 1696549109
+top
+top
+pop
+push 1663925721
+change 385 171
+add 215 991034551
+top
+top
+push 1321268023
+change 157 301
+add 518 1255961878
+empty
+size
+push 2042122590
+change 223 282
+add 405 791396296
+size
+size
+pop
+push 1600229307
+change 167 140
+add 116 406967877
+size
+empty
+pop
+push 108451979
+change 136 51
+add 308 1572807882
+top
+top
+push 1737517723
+change 539 271
+add 500 2075331834
+top
+top
+push 193047510
+change 28 242
+add 337 1981223415
+empty
+size
+pop
+push 744846053
+change 494 210
+add 157 1514346896
+size
+empty
+push 1669817857
+change 399 198
+add 163 1495938149
+empty
+empty
+push 2111853295
+change 108 142
+add 146 1416732620
+size
+top
+push 1962845746
+change 147 126
+add 64 1414376621
+empty
+size
+push 1538532091
+change 19 149
+add 55 1822654124
+empty
+size
+push 1511122980
+change 181 411
+add 113 588256391
+size
+empty
+push 1438573268
+change 437 333
+add 576 299547287
+top
+empty
+pop
+push 2000295008
+change 512 369
+add 495 669635244
+size
+empty
+push 1650837655
+change 287 429
+add 20 823586388
+size
+top
+push 1422146546
+change 341 503
+add 224 817922951
+empty
+top
+push 798936868
+change 112 524
+add 14 1271485079
+size
+top
+push 1877057460
+change 541 578
+add 164 2132114218
+top
+size
+push 1819216446
+change 71 203
+add 359 1265426865
+empty
+top
+push 542955260
+change 308 114
+add 349 939509589
+top
+empty
+push 1714117792
+change 104 291
+add 423 1914711381
+empty
+size
+push 723445143
+change 266 546
+add 414 1711100255
+empty
+top
+push 399540075
+change 119 6
+add 421 888055336
+top
+empty
+push 1836353644
+change 172 60
+add 143 2110750073
+empty
+empty
+push 631481940
+change 482 329
+add 151 586586766
+empty
+top
+push 1689672155
+change 355 261
+add 85 892723111
+size
+size
+pop
+push 406605987
+change 327 184
+add 451 461608414
+top
+empty
+push 264299455
+change 42 55
+add 420 108320526
+size
+size
+push 2045875316
+change 461 111
+add 331 741572589
+top
+empty
+pop
+push 1896595622
+change 61 380
+add 362 1137215215
+size
+top
+push 2100477583
+change 503 419
+add 269 76198656
+size
+size
+push 558189012
+change 565 321
+add 182 1024875909
+size
+top
+push 1073492800
+change 111 535
+add 446 916350768
+empty
+empty
+push 419708675
+change 87 379
+add 118 748051103
+empty
+top
+push 143178726
+change 574 153
+add 361 480733465
+top
+top
+push 205523763
+change 385 203
+add 495 681079145
+empty
+top
+pop
+push 1712171054
+change 194 353
+add 45 1033541468
+empty
+top
+push 597353187
+change 513 77
+add 2 1221796467
+size
+top
+push 187161534
+change 565 318
+add 242 827873515
+size
+size
+push 501088883
+change 20 13
+add 197 375518078
+top
+empty
+push 664502799
+change 552 401
+add 344 1963799634
+size
+empty
+push 1021412660
+change 361 5
+add 276 170722958
+empty
+empty
+pop
+push 687217497
+change 66 241
+add 120 1534512650
+empty
+empty
+pop
+push 212409675
+change 187 504
+add 537 219848145
+empty
+empty
+push 1185037200
+change 525 22
+add 171 95969100
+empty
+empty
+pop
+push 243770387
+change 462 503
+add 188 1753753683
+empty
+size
+push 999114641
+change 198 456
+add 527 1091359264
+empty
+empty
+push 1256524081
+change 75 198
+add 37 1924227022
+size
+size
+push 412164681
+change 156 508
+add 397 1519497247
+size
+top
+pop
+push 1870464947
+change 8 321
+add 408 439148632
+top
+empty
+pop
+push 1333267971
+change 515 250
+add 383 1123559445
+top
+size
+pop
+push 1254199972
+change 509 82
+add 325 1905068689
+size
+top
+push 1820445510
+change 76 361
+add 261 319308630
+empty
+size
+pop
+push 6046380
+change 369 621
+add 605 1273986264
+top
+top
+pop
+push 1109171275
+change 118 79
+add 488 677413022
+size
+size
+pop
+push 1995061991
+change 595 555
+add 528 1210911548
+empty
+size
+push 893333907
+change 396 88
+add 287 1659861792
+empty
+empty
+pop
+push 279204680
+change 528 436
+add 571 1637336066
+top
+top
+push 1322850063
+change 419 1
+add 616 380509317
+top
+size
+pop
+push 504253031
+change 455 302
+add 505 23432104
+size
+empty
+push 1936381035
+change 4 64
+add 471 128637675
+top
+top
+push 1615408917
+change 414 452
+add 543 1022178046
+size
+size
+push 951966463
+change 253 565
+add 141 1151978198
+size
+size
+push 1822617140
+change 598 248
+add 26 2099881530
+top
+top
+push 1749801284
+change 198 281
+add 249 1197699240
+size
+top
+push 599203049
+change 237 291
+add 584 1411763102
+top
+size
+push 808079088
+change 242 283
+add 233 1940115945
+top
+size
+push 859095655
+change 98 345
+add 130 1119625673
+empty
+top
+pop
+push 1090462563
+change 114 88
+add 245 1433815305
+top
+empty
+push 1535547597
+change 241 572
+add 88 928027710
+size
+top
+push 735937718
+change 52 621
+add 160 1417383757
+size
+empty
+push 978467039
+change 541 253
+add 244 647438953
+empty
+size
+push 1369850084
+change 110 405
+add 376 1221974018
+empty
+empty
+push 772900257
+change 147 81
+add 206 928056842
+top
+top
+push 1844005667
+change 251 151
+add 543 866446832
+size
+top
+pop
+push 2071977971
+change 285 566
+add 298 1291924967
+size
+empty
+pop
+push 321851486
+change 103 451
+add 631 2103359445
+top
+top
+push 983459672
+change 163 171
+add 476 1340179474
+top
+size
+pop
+push 1837869432
+change 1 78
+add 39 227369130
+top
+top
+pop
+push 1063285287
+change 325 58
+add 478 687679709
+size
+empty
+push 359810512
+change 412 453
+add 466 253237140
+size
+top
+push 2023614417
+change 605 221
+add 500 26801055
+empty
+size
+pop
+push 307147498
+change 187 481
+add 381 944095745
+top
+size
+pop
+push 828489038
+change 338 92
+add 591 373364788
+empty
+top
+pop
+push 790352646
+change 527 20
+add 400 2135563969
+empty
+empty
+pop
+push 123749111
+change 16 382
+add 621 1828405811
+top
+top
+pop
+push 1375303482
+change 278 529
+add 579 1277075122
+size
+empty
+push 1023107478
+change 461 544
+add 608 1395264453
+empty
+size
+push 1125797354
+change 596 133
+add 455 2136543151
+size
+top
+pop
+push 1277930067
+change 427 568
+add 34 480317428
+empty
+size
+pop
+push 6282815
+change 275 39
+add 69 1774922909
+top
+size
+push 629245774
+change 218 148
+add 255 1416324366
+top
+top
+push 1470757662
+change 340 182
+add 270 45511941
+empty
+size
+push 1448636640
+change 362 611
+add 89 1878437668
+top
+empty
+pop
+push 2043178123
+change 23 590
+add 444 150862639
+top
+size
+pop
+push 1484700224
+change 251 642
+add 256 1300413891
+top
+top
+push 213789923
+change 74 23
+add 441 65385371
+empty
+size
+push 1992208942
+change 109 220
+add 22 718523678
+size
+size
+push 1575471147
+change 133 232
+add 73 780602752
+size
+size
+push 1392888244
+change 629 322
+add 168 1706404069
+empty
+size
+push 152846768
+change 306 580
+add 436 836881504
+top
+top
+push 1799044646
+change 650 173
+add 410 1908526411
+top
+top
+push 1572308338
+change 427 584
+add 664 2115555233
+size
+top
+pop
+push 184696224
+change 482 444
+add 69 1999868156
+empty
+empty
+push 532966009
+change 59 613
+add 540 2132262458
+size
+top
+pop
+push 359772234
+change 655 516
+add 419 2699846
+top
+empty
+push 2071065054
+change 293 254
+add 387 1431016449
+empty
+size
+push 1180889079
+change 613 471
+add 449 1338136476
+size
+top
+pop
+push 990784207
+change 205 419
+add 380 1813284967
+size
+empty
+pop
+push 1098526873
+change 378 513
+add 447 2008572202
+top
+top
+pop
+push 977987422
+change 175 513
+add 83 369618236
+size
+size
+pop
+push 2115393921
+change 590 466
+add 293 1970996743
+size
+top
+push 1170388403
+change 425 617
+add 71 1639672320
+empty
+empty
+push 1856130939
+change 26 611
+add 526 84938416
+empty
+size
+push 1894568290
+change 196 141
+add 653 397461481
+size
+top
+push 1726579530
+change 456 344
+add 592 263810615
+empty
+empty
+push 176928911
+change 538 39
+add 278 417023023
+top
+size
+push 1615167308
+change 627 371
+add 618 526055435
+empty
+size
+pop
+push 613418791
+change 575 609
+add 114 201412843
+top
+top
+pop
+push 1385006734
+change 188 198
+add 221 863351323
+size
+top
+pop
+push 1645722402
+change 586 133
+add 343 2112528260
+top
+empty
+pop
+push 1885699776
+change 17 393
+add 90 1941754140
+size
+size
+pop
+push 1049783667
+change 409 357
+add 191 1927647495
+size
+top
+pop
+push 754975230
+change 496 378
+add 498 1630692812
+top
+size
+push 1198335280
+change 498 336
+add 543 1166024100
+empty
+top
+push 1475160574
+change 211 325
+add 133 373768766
+size
+top
+push 2011261157
+change 49 68
+add 238 2091115381
+size
+empty
+pop
+push 816664702
+change 678 277
+add 331 139671172
+top
+empty
+pop
+push 1849557795
+change 469 514
+add 91 637945550
+top
+size
+push 368163787
+change 410 155
+add 279 1307347180
+size
+size
+push 155438144
+change 210 188
+add 483 1372914363
+empty
+top
+pop
+push 356314592
+change 429 545
+add 51 1490865220
+empty
+top
+push 441190821
+change 243 81
+add 225 1410151948
+top
+empty
+push 1635051986
+change 520 323
+add 65 1333726965
+top
+empty
+pop
+push 2132885249
+change 44 662
+add 672 614650272
+top
+top
+push 1870725893
+change 606 177
+add 427 73333996
+top
+top
+pop
+push 1425530777
+change 368 680
+add 525 2111080261
+empty
+empty
+push 1538044131
+change 397 622
+add 382 176476224
+empty
+empty
+push 642527007
+change 659 38
+add 335 1959367596
+size
+empty
+pop
+push 310123202
+change 194 213
+add 63 207805037
+size
+top
+push 1239485307
+change 75 302
+add 572 1909757532
+size
+top
+pop
+push 241769484
+change 335 619
+add 378 687579920
+empty
+top
+push 1278547491
+change 681 278
+add 224 1780345318
+size
+size
+pop
+push 1798003979
+change 356 303
+add 72 549933150
+size
+top
+push 41453865
+change 686 110
+add 237 1498003476
+size
+empty
+pop
+push 766221743
+change 638 463
+add 277 270683403
+empty
+size
+push 1944644439
+change 662 180
+add 652 773273718
+empty
+empty
+push 2140735740
+change 171 629
+add 292 573401868
+size
+size
+pop
+push 1469269022
+change 634 83
+add 293 1348601478
+empty
+empty
+pop
+push 2110122439
+change 180 487
+add 127 1177787814
+size
+empty
+push 865640296
+change 685 390
+add 149 538613081
+top
+size
+push 1799419879
+change 110 18
+add 225 951238812
+empty
+top
+push 1832237385
+change 358 610
+add 76 866755776
+empty
+top
+push 459860081
+change 99 86
+add 634 370751884
+top
+size
+push 1597229291
+change 278 272
+add 302 789797141
+empty
+top
+push 82423444
+change 9 427
+add 342 418775270
+size
+top
+push 389474193
+change 173 494
+add 23 2114168275
+size
+empty
+push 1697538877
+change 243 296
+add 102 778070285
+empty
+size
+push 734673185
+change 331 665
+add 356 1688156489
+empty
+empty
+pop
+push 268323726
+change 219 321
+add 32 7937732
+empty
+size
+push 1070196444
+change 482 468
+add 399 335322394
+top
+top
+push 1343300599
+change 81 669
+add 206 1661625565
+top
+top
+push 795959058
+change 509 90
+add 717 204393169
+size
+empty
+push 307294213
+change 190 155
+add 378 1563731245
+size
+empty
+pop
+push 1953044687
+change 672 248
+add 638 487609464
+empty
+size
+pop
+push 1213302451
+change 261 400
+add 585 1543891187
+size
+top
+push 1626136052
+change 553 674
+add 681 1999701161
+size
+empty
+push 1617305843
+change 499 500
+add 95 1208734689
+top
+empty
+push 985119375
+change 537 613
+add 666 484036461
+top
+empty
+push 1821351989
+change 316 372
+add 564 990687681
+top
+top
+push 1768580150
+change 424 621
+add 187 1440727863
+size
+size
+pop
+push 142611409
+change 435 419
+add 422 1368676368
+size
+size
+pop
+push 2111866225
+change 104 430
+add 442 1741462701
+empty
+size
+pop
+push 1456764098
+change 589 394
+add 212 630466327
+top
+size
+push 314760620
+change 367 645
+add 642 1305369615
+top
+empty
+pop
+push 380046549
+change 708 215
+add 502 1653754212
+top
+empty
+push 322232273
+change 540 458
+add 163 38267737
+size
+size
+pop
+push 1203465657
+change 433 729
+add 163 433142383
+empty
+top
+push 1292072293
+change 130 145
+add 610 225627540
+top
+size
+push 1523783727
+change 111 644
+add 424 2055825325
+empty
+empty
+pop
+push 1004012459
+change 686 718
+add 127 991156615
+size
+size
+push 41733544
+change 654 432
+add 694 1187070491
+size
+empty
+pop
+push 1518390646
+change 455 708
+add 498 657994585
+top
+size
+push 2137798942
+change 557 711
+add 187 434614255
+empty
+size
+push 1538545323
+change 652 298
+add 561 413511965
+top
+empty
+pop
+push 344323580
+change 743 212
+add 719 1915991275
+size
+size
+push 790104068
+change 602 475
+add 162 2144072703
+size
+top
+pop
+push 209122023
+change 616 716
+add 215 203706802
+top
+empty
+push 1007378125
+change 544 453
+add 732 1098809452
+empty
+top
+push 1561397607
+change 275 56
+add 35 212923201
+size
+empty
+push 1051185046
+change 297 193
+add 191 574027320
+empty
+top
+push 808697565
+change 513 581
+add 746 1070058320
+size
+top
+pop
+push 581045979
+change 122 380
+add 336 1755471652
+empty
+size
+push 631794669
+change 227 580
+add 742 708956831
+empty
+top
+push 419237027
+change 220 512
+add 191 488059543
+size
+size
+push 1638401657
+change 639 452
+add 340 674792036
+size
+empty
+push 977992238
+change 596 50
+add 398 176802398
+empty
+top
+pop
+push 218925238
+change 637 643
+add 560 109972926
+size
+size
+pop
+push 1002809090
+change 310 577
+add 307 738633193
+size
+size
+push 1892100321
+change 449 224
+add 581 528743829
+size
+empty
+pop
+push 474868796
+change 400 735
+add 100 415592277
+top
+size
+push 646806931
+change 550 540
+add 53 1765434825
+empty
+size
+push 326611449
+change 506 454
+add 428 203554811
+top
+top
+push 312197203
+change 551 99
+add 443 1252025496
+size
+empty
+push 270606442
+change 423 401
+add 200 942615648
+top
+empty
+pop
+push 228473152
+change 53 629
+add 160 1060789305
+size
+empty
+pop
+push 13514934
+change 215 608
+add 242 1692216746
+top
+size
+push 308255233
+change 419 376
+add 571 683538773
+empty
+size
+pop
+push 2145254786
+change 123 284
+add 215 1851422246
+top
+top
+push 1909904586
+change 162 399
+add 218 355024136
+size
+empty
+pop
+push 1823238867
+change 767 413
+add 34 412406912
+top
+empty
+push 306026445
+change 532 542
+add 249 629668681
+empty
+empty
+push 1973663777
+change 604 143
+add 182 584503595
+empty
+top
+push 429377313
+change 673 154
+add 136 1583957539
+size
+size
+pop
+push 1329953612
+change 592 553
+add 581 126180200
+empty
+empty
+push 989032862
+change 760 374
+add 335 1631948891
+size
+top
+pop
+push 1476220377
+change 420 249
+add 684 1164965537
+empty
+top
+pop
+push 1646297099
+change 139 741
+add 631 1618749117
+empty
+size
+pop
+push 511650846
+change 666 116
+add 33 1362444350
+empty
+top
+push 1208229337
+change 278 46
+add 367 1548623656
+empty
+size
+push 1770385503
+change 208 653
+add 344 494218785
+top
+top
+pop
+push 258380098
+change 233 440
+add 627 1761130985
+empty
+empty
+pop
+push 2058292890
+change 283 268
+add 349 612766056
+top
+size
+push 1835512531
+change 386 619
+add 162 561736858
+top
+top
+push 1648208618
+change 667 265
+add 543 2141895730
+size
+top
+push 633998215
+change 713 112
+add 648 212849265
+top
+top
+push 1101331249
+change 101 572
+add 630 106179915
+empty
+top
+push 45491800
+change 656 420
+add 633 530342482
+size
+empty
+push 284112466
+change 494 7
+add 769 104278851
+empty
+top
+push 195620421
+change 529 138
+add 138 377021485
+size
+empty
+push 100995797
+change 151 796
+add 105 1534536452
+empty
+empty
+push 1326326173
+change 290 34
+add 600 441734570
+empty
+empty
+pop
+push 194484950
+change 722 211
+add 206 1683951996
+top
+size
+push 790685205
+change 504 451
+add 429 656766367
+top
+size
+push 629436982
+change 391 422
+add 562 517409934
+size
+empty
+pop
+push 234578912
+change 65 726
+add 220 579028313
+size
+size
+pop
+push 437479771
+change 133 5
+add 781 998318550
+empty
+top
+push 961268277
+change 337 550
+add 535 1154731157
+empty
+size
+push 35563816
+change 702 111
+add 482 1978701519
+empty
+top
+push 560923492
+change 337 474
+add 792 430024020
+top
+empty
+pop
+push 987496144
+change 541 800
+add 411 1696109445
+top
+top
+pop
+push 627395546
+change 660 309
+add 427 823399162
+top
+size
+push 1754574048
+change 249 427
+add 20 927925537
+top
+empty
+push 1731190922
+change 804 791
+add 258 574719259
+empty
+top
+pop
+push 2068668551
+change 90 331
+add 203 1274835666
+top
+size
+push 2010431673
+change 567 472
+add 95 404729913
+empty
+empty
+pop
+push 1818032248
+change 616 11
+add 581 160996816
+size
+size
+pop
+push 287029573
+change 427 230
+add 741 1804393119
+empty
+empty
+push 754125140
+change 373 551
+add 620 775799924
+top
+empty
+push 1481564119
+change 406 244
+add 282 574907165
+size
+size
+push 1367122594
+change 18 172
+add 325 1972039810
+size
+size
+push 1166392597
+change 803 347
+add 620 1540194778
+top
+empty
+push 893910072
+change 191 687
+add 473 1768123568
+top
+size
+push 805279640
+change 730 328
+add 731 381477694
+empty
+empty
+pop
+push 210158967
+change 511 10
+add 111 1225557130
+top
+top
+push 1310076445
+change 417 60
+add 1 558188317
+size
+top
+pop
+push 1160402720
+change 416 665
+add 458 1135050197
+empty
+size
+push 390538160
+change 76 139
+add 29 1866714440
+top
+top
+push 1244835312
+change 186 82
+add 773 900915125
+size
+size
+push 494961077
+change 344 673
+add 703 660938574
+empty
+top
+pop
+push 941154508
+change 342 336
+add 142 187556669
+empty
+top
+pop
+push 613129860
+change 25 760
+add 390 99518845
+empty
+size
+push 604947645
+change 74 755
+add 579 2073917092
+empty
+size
+push 99039916
+change 457 201
+add 156 1940492747
+empty
+top
+push 856406667
+change 262 407
+add 360 1121937
+top
+size
+push 1243302457
+change 664 565
+add 68 1977084267
+size
+top
+push 2001923439
+change 362 608
+add 675 1875217972
+size
+top
+push 1297512858
+change 16 3
+add 565 500467702
+size
+top
+push 1729484654
+change 593 528
+add 776 357037062
+empty
+top
+pop
+push 912484362
+change 512 359
+add 51 1520357840
+size
+size
+push 526083781
+change 283 345
+add 300 1226818961
+top
+size
+push 1025020172
+change 244 444
+add 363 605257325
+empty
+top
+push 398549887
+change 569 416
+add 762 1945697454
+size
+top
+push 186737643
+change 358 426
+add 217 408409645
+size
+top
+pop
+push 1902328134
+change 16 535
+add 486 1029560978
+empty
+size
+push 1003472374
+change 581 394
+add 836 568048529
+size
+empty
+push 45081858
+change 762 815
+add 265 1498889885
+empty
+empty
+pop
+push 1206034303
+change 288 644
+add 256 105598922
+size
+empty
+push 1835093397
+change 383 146
+add 106 2023297005
+top
+empty
+pop
+push 1810024745
+change 180 765
+add 447 1464367994
+empty
+top
+push 1219678963
+change 811 297
+add 159 1686736078
+size
+top
+push 1749017833
+change 493 474
+add 587 1088293996
+top
+top
+pop
+push 539766780
+change 81 473
+add 364 1255059234
+empty
+size
+pop
+push 2066988628
+change 543 355
+add 672 1392438180
+top
+top
+pop
+push 1601655576
+change 519 235
+add 592 1114827124
+top
+top
+push 879372052
+change 253 674
+add 108 1533865840
+empty
+size
+push 1102882606
+change 676 91
+add 186 839483538
+empty
+size
+push 159275456
+change 494 0
+add 606 978900980
+top
+empty
+push 665692994
+change 824 175
+add 819 590236503
+size
+size
+push 2102325578
+change 218 314
+add 563 822248130
+empty
+top
+pop
+push 2014041792
+change 577 670
+add 719 1119914800
+empty
+size
+push 515632228
+change 737 618
+add 475 1851055323
+size
+top
+pop
+push 2100984705
+change 194 502
+add 372 2026900253
+size
+empty
+push 1699340650
+change 147 53
+add 142 1079329225
+empty
+top
+push 1149306577
+change 438 450
+add 506 939597939
+top
+size
+push 343920561
+change 331 756
+add 252 2087815277
+top
+size
+push 1113043914
+change 445 417
+add 527 806636938
+empty
+empty
+pop
+push 715850741
+change 111 532
+add 79 1512380259
+size
+empty
+push 658921832
+change 604 662
+add 212 809489949
+empty
+empty
+push 1979110059
+change 570 467
+add 159 1300964936
+empty
+top
+push 985778828
+change 665 817
+add 827 861726197
+top
+empty
+pop
+push 1713941457
+change 814 463
+add 659 1044833335
+size
+top
+pop
+push 1490288515
+change 651 288
+add 852 934603207
+empty
+top
+pop
+push 1213111612
+change 592 740
+add 166 1774028996
+size
+size
+push 251344019
+change 777 636
+add 402 1969397820
+empty
+top
+push 1168624029
+change 47 623
+add 393 1887138548
+top
+size
+pop
+push 1060507888
+change 29 697
+add 452 2019329928
+empty
+size
+push 890606230
+change 60 143
+add 402 1273014148
+top
+size
+push 3000745
+change 515 781
+add 124 277324810
+size
+empty
+push 1067720910
+change 196 84
+add 608 506675260
+empty
+empty
+push 1982526843
+change 327 246
+add 73 359226398
+top
+size
+push 1320274971
+change 448 724
+add 8 299266406
+top
+empty
+push 529998305
+change 164 83
+add 229 1478104712
+size
+empty
+pop
+push 1084411376
+change 580 191
+add 519 203812974
+empty
+empty
+push 1905031020
+change 286 799
+add 473 1349028806
+empty
+size
+pop
+push 1290947366
+change 402 87
+add 500 973204606
+empty
+empty
+push 880523447
+change 179 294
+add 670 770443272
+top
+top
+push 1414359509
+change 736 562
+add 291 1249121989
+top
+size
+pop
+push 661676259
+change 662 226
+add 488 1811204984
+size
+top
+pop
+push 1436675867
+change 520 107
+add 619 386811320
+empty
+empty
+push 174722033
+change 412 665
+add 696 876456903
+empty
+empty
+push 887815939
+change 194 439
+add 277 537999117
+top
+size
+pop
+push 1318691472
+change 565 46
+add 863 97237199
+size
+size
+push 1502859928
+change 871 719
+add 419 114192435
+top
+empty
+pop
+push 1363529715
+change 747 476
+add 465 299335936
+top
+empty
+push 539514500
+change 339 644
+add 108 1123307607
+empty
+empty
+push 1785280947
+change 578 338
+add 861 633194850
+size
+empty
+push 1116640778
+change 688 608
+add 489 1879745414
+top
+size
+push 969680838
+change 274 79
+add 27 680928040
+top
+size
+push 246237639
+change 70 692
+add 657 718275111
+top
+top
+pop
+push 1385923598
+change 564 799
+add 40 1264156066
+empty
+size
+pop
+push 1982840553
+change 546 634
+add 220 1962888786
+top
+empty
+push 1865095027
+change 805 179
+add 550 236419163
+empty
+empty
+push 1999585426
+change 859 584
+add 343 1204463495
+empty
+top
+push 79897638
+change 523 882
+add 640 89113328
+size
+size
+push 282770444
+change 878 822
+add 58 1229669664
+size
+size
+push 1380822376
+change 462 63
+add 802 32683953
+empty
+size
+pop
+push 1883987086
+change 75 820
+add 305 1320830701
+size
+size
+push 1658035733
+change 484 504
+add 390 1574699656
+empty
+top
+push 1982121027
+change 715 679
+add 688 1288448430
+top
+top
+push 37787758
+change 844 489
+add 63 1069110270
+empty
+empty
+pop
+push 512002503
+change 379 150
+add 371 1184538386
+empty
+empty
+push 1116846854
+change 896 526
+add 888 1489605197
+top
+size
+push 891633083
+change 163 620
+add 18 364704939
+size
+top
+pop
+push 1548286284
+change 218 881
+add 833 1676130834
+size
+empty
+push 1129250011
+change 315 202
+add 369 862248064
+top
+top
+pop
+push 1892119326
+change 476 646
+add 613 284703785
+top
+size
+push 1951450700
+change 796 702
+add 636 275813070
+empty
+top
+pop
+push 1206681884
+change 889 381
+add 667 981736951
+size
+top
+push 1051239531
+change 5 487
+add 82 663222704
+top
+empty
+push 326879183
+change 420 834
+add 821 1248413811
+top
+size
+push 570335672
+change 157 823
+add 603 573472692
+empty
+size
+push 466056788
+change 771 769
+add 313 2066558994
+top
+top
+push 1948627941
+change 754 421
+add 277 1655135339
+empty
+size
+push 1805100486
+change 382 565
+add 225 1189223059
+empty
+empty
+pop
+push 487602186
+change 623 654
+add 910 533593589
+top
+size
+push 1268601315
+change 18 82
+add 482 651666173
+top
+size
+push 775417873
+change 15 331
+add 309 2124109608
+size
+size
+push 191146961
+change 521 231
+add 841 1428528370
+top
+empty
+push 1443478145
+change 186 470
+add 517 1534043067
+top
+top
+push 210018448
+change 448 226
+add 43 1291449381
+top
+size
+push 280871166
+change 466 395
+add 19 658981351
+size
+empty
+pop
+push 1933890538
+change 695 36
+add 412 1758220161
+empty
+empty
+pop
+push 1649210979
+change 177 623
+add 597 1035313736
+top
+top
+pop
+push 419050808
+change 360 143
+add 66 1814969968
+top
+size
+pop
+push 1049795366
+change 781 4
+add 406 815584927
+size
+top
+push 353013617
+change 776 418
+add 595 1727451192
+empty
+empty
+push 1432500721
+change 283 101
+add 681 537519422
+top
+empty
+push 1265725379
+change 243 531
+add 840 212003296
+empty
+top
+pop
+push 1924743259
+change 467 485
+add 598 1121754885
+empty
+top
+pop
+push 1592991384
+change 283 472
+add 465 1930237129
+top
+top
+push 396893507
+change 752 496
+add 346 704457236
+empty
+top
+pop
+push 1645255251
+change 562 253
+add 206 589842195
+empty
+top
+pop
+push 1154998214
+change 656 938
+add 340 1061119836
+top
+top
+push 1614129524
+change 655 67
+add 96 977764957
+top
+size
+pop
+push 175197930
+change 495 524
+add 180 1088032276
+size
+size
+pop
+push 1311488114
+change 467 758
+add 755 1074617659
+size
+top
+push 2064831585
+change 721 688
+add 537 746544720
+empty
+empty
+push 1445183171
+change 372 95
+add 121 546559784
+top
+empty
+push 927885991
+change 332 224
+add 147 926687531
+top
+size
+push 207450789
+change 378 773
+add 901 1251870269
+top
+size
+push 1864652544
+change 150 113
+add 861 1761637199
+empty
+size
+push 1796681342
+change 588 177
+add 135 407089491
+size
+top
+push 691846333
+change 438 951
+add 468 425719076
+empty
+top
+push 2074502734
+change 897 137
+add 1 1107334942
+empty
+top
+push 944096913
+change 920 120
+add 273 1499296774
+empty
+size
+push 1806846238
+change 57 420
+add 231 1093838762
+empty
+top
+push 935014385
+change 62 608
+add 96 994095022
+size
+empty
+push 1933197247
+change 98 851
+add 138 1816790085
+top
+top
+pop
+push 566251819
+change 296 453
+add 387 1038465875
+empty
+size
+pop
+push 411061087
+change 866 552
+add 75 459521838
+top
+top
+push 1189884784
+change 235 795
+add 601 910027536
+empty
+top
+push 935888731
+change 918 448
+add 460 94671941
+top
+empty
+push 65549195
+change 122 509
+add 20 1038199319
+size
+empty
+push 134221263
+change 284 507
+add 607 1543796939
+top
+empty
+push 600434358
+change 332 232
+add 127 1308428239
+top
+top
+push 1809485522
+change 477 48
+add 766 1785699897
+top
+top
+push 1969323427
+change 491 675
+add 683 280974502
+size
+size
+push 1125804838
+change 117 140
+add 373 1113986157
+top
+top
+pop
+push 116032310
+change 412 672
+add 939 1204997685
+top
+size
+push 2096647893
+change 946 707
+add 62 1347395971
+empty
+top
+pop
+push 1825493053
+change 238 910
+add 56 2032949964
+top
+top
+push 663910265
+change 339 572
+add 356 1379377500
+empty
+top
+push 1217469380
+change 53 398
+add 317 1800447351
+empty
+size
+push 606872162
+change 100 949
+add 216 1830877171
+size
+empty
+push 1987099538
+change 94 866
+add 894 735030706
+top
+size
+pop
+push 1748258001
+change 475 575
+add 27 1044805128
+top
+top
+push 1707321100
+change 166 334
+add 728 715977337
+empty
+top
+push 1130812280
+change 756 705
+add 470 975830465
+size
+size
+push 1555501255
+change 884 609
+add 27 1794581163
+empty
+top
+push 1580342508
+change 658 733
+add 911 14154863
+top
+top
+push 1720916090
+change 963 94
+add 111 200855746
+empty
+top
+push 1296278068
+change 881 20
+add 857 96718393
+top
+size
+pop
+push 684723783
+change 942 535
+add 620 227714141
+top
+empty
+push 2142458380
+change 393 292
+add 699 1362625916
+size
+top
+push 472814816
+change 103 883
+add 729 792169487
+size
+top
+push 1620799050
+change 339 678
+add 312 1325599258
+size
+top
+push 1344993274
+change 0 887
+add 888 1588192086
+size
+top
+push 994703850
+change 723 910
+add 962 1200706944
+top
+empty
+pop
+push 1794663852
+change 940 443
+add 604 603057229
+size
+top
+push 2043315081
+change 43 335
+add 91 1046569816
+empty
+empty
+pop
+push 664056747
+change 83 452
+add 702 1319875815
+empty
+size
+pop
+push 704213077
+change 248 35
+add 27 1014324504
+top
+size
+push 1925915895
+change 750 555
+add 536 6824859
+size
+empty
+pop
+push 1564773630
+change 335 434
+add 77 1412056591
+size
+empty
+push 927034633
+change 322 295
+add 545 864447137
+size
+empty
+push 1550321408
+change 426 76
+add 205 1248010417
+top
+empty
+push 1285268496
+change 981 552
+add 255 2032596200
+top
+top
+pop
+push 829531752
+change 183 473
+add 701 883612596
+empty
+top
+pop
+push 1425007144
+change 484 562
+add 492 117108129
+empty
+top
+push 1422291743
+change 23 547
+add 154 2022193368
+size
+top
+where 0
+showall
+return
