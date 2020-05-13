@@ -23,7 +23,7 @@ list_int getspace(list_int X, int a)
 /*add function*/
 list_int list_add(FILE *f,list_int X)
 {
-    int i,a,b;
+    int a,b;
     fscanf(f,"%d %d", &a, &b);
     if(X.list_size<a)
         ;
