@@ -132,9 +132,9 @@ list_int list_remove(FILE *f,list_int X)
     int Y;
     fscanf(f,"%d",&Y);
     for(;Y<X.list_size-1;Y++)
-         X.list[Y+1]=X.list[Y];
+         X.list[Y]=X.list[Y+1];
     X.list_size--;
-    X.list=realloc(X.list,sizeof(int)*X.list_size);
+    X.list=(int *)realloc(X.list,sizeof(int)*X.list_size);
     return X;
 }
 /*gets command*/
@@ -178,7 +178,7 @@ list_int listinter(FILE *f,list_int X)
         else
             puts("ERROR");
     }
-    X.list=realloc(X.list,sizeof(int)*Y.list_size);
+    X.list=(int *)realloc(X.list,sizeof(int)*Y.list_size);
     return Y;
 }
 
