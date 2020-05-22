@@ -39,7 +39,7 @@ list_int listcpy(list_int Y, list_int X)
 {
     int i;
     Y.list_size=X.list_size;
-    Y.list=malloc(sizeof(int)*X.list_size);
+    Y.list=(int *)malloc(sizeof(int)*X.list_size);
     for(i=0;i<X.list_size;i++)
         memcpy(Y.list+i,X.list+i,sizeof(int));
     return Y;
@@ -48,7 +48,7 @@ list_int listcpy(list_int Y, list_int X)
 list_int listgen()
 {
     list_int X;
-    X.list=malloc(sizeof(int));
+    X.list=(int *)malloc(sizeof(int));
     X.list_size=0;
     return X;
 }
