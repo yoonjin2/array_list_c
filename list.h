@@ -1,6 +1,15 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+int compare(const void *first, const void *second)
+{
+	if(*(int *)first > *(int *)second)
+		return 1;
+	else if(*(int *)first < *(int *)second)
+		return -1;
+	else
+		return 0;
+}
 struct list_int
 {
 int *list;
@@ -147,6 +156,11 @@ list_int list_reverse(list_int X)
 	}
 	return Y;
 }
+list_int list_qsort(list_int X)
+{
+	qsort(X.list, X.list_size, sizeof(int), compare);
+	return X;
+}
 /*gets command*/
 list_int listinter(FILE *f,list_int X)
 {
@@ -187,6 +201,8 @@ list_int listinter(FILE *f,list_int X)
         }
         else if(strcmp(command,"reverse")==0)
         	Y=list_reverse(Y);
+        else if(strcmp(command,"qsort")==0)
+        	Y=list_qsort(Y);
         else
             puts("ERROR");
     }
