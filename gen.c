@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<limits.h>
 #include<time.h>
-#define SIZE 100000
+#define SIZE 1000
 int main(int argc, char **argv)
 {
     char x[3][6]={"size","top","empty",};
@@ -27,7 +27,7 @@ int main(int argc, char **argv)
         fprintf(f,"pop\n");
     }
     fprintf(f, "where 0\n");
-    fprintf(f,"showall\n\nclear\nshowall\nreturn");
+    fprintf(f,"showall\nshowall\nreturn");
     fclose(f);
     return 0;
 }
