@@ -137,6 +137,16 @@ list_int list_remove(FILE *f,list_int X)
     X.list=(int *)realloc(X.list,sizeof(int)*X.list_size);
     return X;
 }
+list_int list_reverse(list_int X)
+{
+	list_int Y=listcpy(Y,X);
+	int i;
+	for(i=0;i<X.list_size;i++)
+	{
+		Y.list[X.list_size-1-i]=X.list[i];
+	}
+	return Y;
+}
 /*gets command*/
 list_int listinter(FILE *f,list_int X)
 {
@@ -175,11 +185,12 @@ list_int listinter(FILE *f,list_int X)
             Y.list_size=0;
             Y.list=(int *)malloc(sizeof(int));
         }
+        else if(strcmp(command,"reverse")==0)
+        	Y=list_reverse(Y);
         else
             puts("ERROR");
     }
     X.list=(int *)realloc(X.list,sizeof(int)*Y.list_size);
     return Y;
 }
-
 
