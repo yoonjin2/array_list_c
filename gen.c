@@ -5,6 +5,7 @@
 #define SIZE 1000
 int main(int argc, char **argv)
 {
+    srand(time(NULL));
     char x[3][6]={"size","top","empty",};
     FILE *f=fopen(argv[1],"wt");
     int i,ii,iii,iiii;
@@ -26,8 +27,8 @@ int main(int argc, char **argv)
     if(rand()%3==1)
         fprintf(f,"pop\n");
     }
-    fprintf(f, "where 0\n");
-    fprintf(f,"showall\nshowall\nreturn");
+    fprintf(f, "where 0\nqsort\n");
+    fprintf(f,"showall\nreturn");
     fclose(f);
     return 0;
 }
